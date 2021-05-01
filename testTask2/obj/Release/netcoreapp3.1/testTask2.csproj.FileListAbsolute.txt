@@ -1,0 +1,13 @@
+C:\Users\Alena\source\repos\testTask2\bin\Release\netcoreapp3.1\testTask2.exe
+C:\Users\Alena\source\repos\testTask2\bin\Release\netcoreapp3.1\testTask2.deps.json
+C:\Users\Alena\source\repos\testTask2\bin\Release\netcoreapp3.1\testTask2.runtimeconfig.json
+C:\Users\Alena\source\repos\testTask2\bin\Release\netcoreapp3.1\testTask2.runtimeconfig.dev.json
+C:\Users\Alena\source\repos\testTask2\bin\Release\netcoreapp3.1\testTask2.dll
+C:\Users\Alena\source\repos\testTask2\bin\Release\netcoreapp3.1\testTask2.pdb
+C:\Users\Alena\source\repos\testTask2\obj\Release\netcoreapp3.1\testTask2.csprojAssemblyReference.cache
+C:\Users\Alena\source\repos\testTask2\obj\Release\netcoreapp3.1\testTask2.AssemblyInfoInputs.cache
+C:\Users\Alena\source\repos\testTask2\obj\Release\netcoreapp3.1\testTask2.AssemblyInfo.cs
+C:\Users\Alena\source\repos\testTask2\obj\Release\netcoreapp3.1\testTask2.csproj.CoreCompileInputs.cache
+C:\Users\Alena\source\repos\testTask2\obj\Release\netcoreapp3.1\testTask2.dll
+C:\Users\Alena\source\repos\testTask2\obj\Release\netcoreapp3.1\testTask2.pdb
+C:\Users\Alena\source\repos\testTask2\obj\Release\netcoreapp3.1\testTask2.genruntimeconfig.cache
